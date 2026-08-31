@@ -1,0 +1,12 @@
+tensorflow==2.17.1
+keras
+torch
+numpy
+pandas
+scikit-learn
+scapy
+matplotlib
+pyod
+more-itertools
+scipy
+joblib
